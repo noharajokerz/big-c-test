@@ -7,5 +7,5 @@
 
 nodejs is required for installation in who want to run code. If it's already installed, please follow step step below.
 
-- run `npm i` at terminal for install jest being unit test.
-- run `npm run test` for unit test for each function
+- run `npm i` at terminal for installation jest being unit test.
+- run unit test via `npm run test` for each function.
