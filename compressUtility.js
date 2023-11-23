@@ -23,7 +23,7 @@ const decompressData = (str) => {
         const count = str[i-1]
 
         deCompressStr += char.repeat(+count);
-        console.log(char,+count)
+        // console.log(char,+count)
     }
 
     return deCompressStr
